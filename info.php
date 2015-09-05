@@ -1,7 +1,0 @@
-<?php
-
-namespace CuddlyWaddle;
-
-phpinfo();
-
-?>
